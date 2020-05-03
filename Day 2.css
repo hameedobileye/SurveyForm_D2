@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+}
+
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+
+table {
+	text-align: right;
+}
+
+table {
+	margin: auto;
+}
+
+body {
+	background-color: #a3c9c9;
+}
+
+#mydiv {
+	background-color: #fcfcfc;
+	height: 1000px;
+	width: 1000px;
+	margin: auto;
+
+}
+
+/*.abeg {
+	text-align: right;
+}*/
+
+.ok {
+	text-align: left;
+
+}
+/*p {
+	margin-top: 70px;
+}
